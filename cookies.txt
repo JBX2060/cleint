@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.planetstyles.net	TRUE	/h2o_33_demo_3	FALSE	1999999999	h2o_33_demo_3_u	1
+.planetstyles.net	TRUE	/h2o_33_demo_3	FALSE	1999999999	h2o_33_demo_3_k	
+.planetstyles.net	TRUE	/h2o_33_demo_3	FALSE	1999999999	h2o_33_demo_3_sid	959003af7c2cc016a6aa47614cf16d1d
+.planetstyles.net	TRUE	/h2o_33_demo_2	FALSE	1999999999	h2o_33_demo_2_u	1
+.planetstyles.net	TRUE	/h2o_33_demo_2	FALSE	1999999999	h2o_33_demo_2_k	
+.planetstyles.net	TRUE	/h2o_33_demo_2	FALSE	1999999999	h2o_33_demo_2_sid	1e652071801fed3f1b81ead61439c693
+.planetstyles.net	TRUE	/milk_demo_1	FALSE	1999999999	milk_demo_1_u	1
+.planetstyles.net	TRUE	/milk_demo_1	FALSE	1999999999	milk_demo_1_k	
+.planetstyles.net	TRUE	/milk_demo_1	FALSE	1999999999	milk_demo_1_sid	ef06af5f7f05d7bf30c37c6d928603da
+.planetstyles.net	TRUE	/milk_demo_2	FALSE	1999999999	milk_demo_2_u	1
+.planetstyles.net	TRUE	/milk_demo_2	FALSE	1999999999	milk_demo_2_k	
+.planetstyles.net	TRUE	/milk_demo_2	FALSE	1999999999	milk_demo_2_sid	36a8eb999955b98fa0af140fe19acd43
+.planetstyles.net	TRUE	/	FALSE	1999999999	_gat	1
+.planetstyles.net	TRUE	/	FALSE	1999999999	_ga	GA1.2.1140080670.1586814932
+.planetstyles.net	TRUE	/	FALSE	1999999999	_gid	GA1.2.618174457.1586814932
+.imgur.com	TRUE	/	FALSE	1999999999	__cfduid	d1a425fdd0476e9dc502c09178aeab0491589903230
+i.stack.imgur.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
